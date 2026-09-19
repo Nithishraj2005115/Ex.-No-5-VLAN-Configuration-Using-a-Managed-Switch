@@ -1,4 +1,6 @@
-## Ex. No: 5  VLAN Configuration Using a Managed Switch
+## Ex. No: 4  VLAN Configuration Using a Managed Switch
+# NAME: NITHISHRAJ M
+# REG NO : 212223060187
 Date:
 ________________________________________
 # Objective
@@ -61,9 +63,19 @@ Switch(config-if-range)# exit<br>
 ________________________________________
 # Output (Screenshots)
 •	VLAN configuration on switch<br>
+<img width="1920" height="1080" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/cafc97b4-36e4-4448-a982-6fa08a3cc822" />
+
 •	PC IP settings<br>
+<img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/1d369333-d027-4039-bc5a-16389bf85ad0" />
+<img width="1920" height="1080" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/94e8f8d0-41f7-4fcd-9fb0-27b4aa6046a0" />
+<img width="1920" height="1080" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/b1dc8a3d-4ac3-4265-ad64-5debd24a48d3" />
+<img width="1920" height="1080" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/8290b1f5-9869-49c9-8884-80a993adbd9d" />
 •	Successful ping between PCs in the same VLAN<br>
+<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/1a186999-5a70-4edc-a8ba-48205c300029" />
+
 •	Failed ping between PCs in different VLANs<br>
+<img width="1920" height="1080" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/f4b00565-1e20-48a1-934e-012510cab497" />
+
 ________________________________________
 # Result
 Successfully created and configured VLANs on a managed switch. Verified that only PCs within the same VLAN could communicate with each other.
